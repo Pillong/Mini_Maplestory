@@ -83,15 +83,15 @@ public class EnemyMove: MonoBehaviour
 		CancelInvoke();
 		Invoke("Think", 2);
 	}
-   /* void OnTriggerEnter2D(Collider2D other)
+    void OnTriggerEnter2D(Collider2D other)
     {
         if (other.gameObject.tag.Equals("Skill"))
         {
 			OnDamaged ();
         }
 		Invoke ("OffDamaged", 1);
-    }*/
-	/*void OnDamaged()
+    }
+	void OnDamaged()
 	{
 		isHit = true;
 		HealthPoint -= GameObject.Find ("Player").GetComponent<SkillControl> ().skillDamage;
@@ -114,7 +114,7 @@ public class EnemyMove: MonoBehaviour
 			animator.SetBool("IsDie", true);
 			movePower = 0;//복잡하게 별거 안하고 움직임을 차단
 		}
-	}*/
+	}
 	void OffDamaged()
 	{
 		isHit = false;
