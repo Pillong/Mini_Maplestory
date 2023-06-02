@@ -1,0 +1,510 @@
+fileFormatVersion: 2
+guid: 58e2a52985ba0ca4cb1a13caa2aa5c6a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Cocktump_Sprite_0
+  - first:
+      213: 21300002
+    second: Cocktump_Sprite_1
+  - first:
+      213: 21300004
+    second: Cocktump_Sprite_2
+  - first:
+      213: 21300006
+    second: Cocktump_Sprite_3
+  - first:
+      213: 21300008
+    second: Cocktump_Sprite_4
+  - first:
+      213: 21300010
+    second: Cocktump_Sprite_5
+  - first:
+      213: 21300012
+    second: Cocktump_Sprite_6
+  - first:
+      213: 21300014
+    second: Cocktump_Sprite_7
+  - first:
+      213: 21300016
+    second: Cocktump_Sprite_8
+  - first:
+      213: 21300018
+    second: Cocktump_Sprite_9
+  - first:
+      213: 21300020
+    second: Cocktump_Sprite_10
+  - first:
+      213: 21300022
+    second: Cocktump_Sprite_11
+  - first:
+      213: 21300024
+    second: Cocktump_Sprite_14
+  - first:
+      213: 21300026
+    second: Cocktump_Sprite_15
+  - first:
+      213: 21300028
+    second: Cocktump_Sprite_16
+  - first:
+      213: 21300030
+    second: Cocktump_Sprite_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cocktump_Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 315
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251e2a1b031740d4eb9c4611c81933dd
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cocktump_Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 315
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca972febfb3b5804e925c155c0719466
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cocktump_Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 315
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6e3a9b037a2cb4494979be36323556
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cocktump_Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 315
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd0219d7e41da44d91be36403cefaa3
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cocktump_Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 214
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f5896b91b35534ebc74e97546b916e
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cocktump_Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 214
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52836354ea5d0694eb6e8c14b29770ce
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cocktump_Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 214
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef21519db443f14f849b0d6f16aecb6
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cocktump_Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 214
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c2226803aa932478975532b28f920e
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cocktump_Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 106
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e18023f43099c46974a3e19144ac75
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cocktump_Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 10
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bcc3a5499f87804b9b37923145a9982
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cocktump_Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 10
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca77a0443ee6ca64ca916fad7e74a375
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cocktump_Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 10
+        width: 67
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0571c34c52ca5d243ad6bc35345555e8
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cocktump_Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 10
+        width: 66
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe894f71d0954ff47913b6abc4aabe89
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cocktump_Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 10
+        width: 74
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 2, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99dcf95b8365ebe4691d6a07fe72ef39
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cocktump_Sprite_16
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 10
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88da5c60443dbca42809d6c83867d28a
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cocktump_Sprite_17
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 10
+        width: 47
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76da0a476e496f4191f3574dc9013a8
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Cocktump_Sprite_14: 21300024
+      Cocktump_Sprite_3: 21300006
+      Cocktump_Sprite_8: 21300016
+      Cocktump_Sprite_16: 21300028
+      Cocktump_Sprite_2: 21300004
+      Cocktump_Sprite_17: 21300030
+      Cocktump_Sprite_6: 21300012
+      Cocktump_Sprite_10: 21300020
+      Cocktump_Sprite_1: 21300002
+      Cocktump_Sprite_15: 21300026
+      Cocktump_Sprite_11: 21300022
+      Cocktump_Sprite_7: 21300014
+      Cocktump_Sprite_9: 21300018
+      Cocktump_Sprite_0: 21300000
+      Cocktump_Sprite_5: 21300010
+      Cocktump_Sprite_4: 21300008
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
